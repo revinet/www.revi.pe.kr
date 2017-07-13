@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/reviwm
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://revi.pe.kr
+  * I am reviwm (https://keybase.io/reviwm) on keybase.
+  * I have a public key with fingerprint 947F 156F 1625 0DE3 9788  C3C3 5B62 5DA5 BEFF 197A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101464af5628a810f53108b9af88820c11b6ac2d8e124643312b22425a5e2fdac220a",
+            "fingerprint": "947f156f16250de39788c3c35b625da5beff197a",
+            "host": "keybase.io",
+            "key_id": "5b625da5beff197a",
+            "kid": "0101464af5628a810f53108b9af88820c11b6ac2d8e124643312b22425a5e2fdac220a",
+            "uid": "0e8d05f6b1e737dce18d37c8b9f21600",
+            "username": "reviwm"
+        },
+        "service": {
+            "hostname": "revi.pe.kr",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1499956138,
+    "expire_in": 157680000,
+    "prev": "d037ec1ec6f98f6c3b4ec07feba5c06a315fb8c13bc5a234645c60b18b05b4a7",
+    "seqno": 111,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.72
+Comment: https://keybase.io/crypto
+
+yMM7AnicrVJrTBRXGF3kUVheIpg2RKCOlVTZ4NyZnccu1CoRUyQG0dbUKlnmcWd3
+urq7nZ3lWYXNxlZtY0MC2oAFiZYWXaDVihApFioRWoslUYNBkgIxIAjFkIIPiL1j
+26Q/+rP3z8093znnnu/Ldy0yUKcPeKtZKapsmBUDfu6q8uj2WH3nSjHeKRZj5lLM
+Dl9ccL8I3arFLouYGcMBDoy0kZMommA5FuASRQKc5U2cxLIsgQsA8DQnECILAYGI
+JAkIniCMBMVRkJBEVCJwDjNgkuywQsWlyA4V2ZqMjAQoWgI0QeEiJE0MywqkQFI8
+AkSO4qEkAROjCW1Ot6ZA4XjODVNlJ8LQw/Ii3n/w/+fcnr/sICvilETzADIkIwoQ
+sCLJCMhPIgCN4xrRDRUHdwAitgIL5MID2EEDhrACWYDaWLU+/lVPdcFUu4J0LsWp
+OgXnfoTbVNXlNms6tdilEQshb/nbwsLLDhHNECkKoOKWnQ7MDBBTUGXNExhNJhNF
+A5I1YLDIJSvQImsMiqFZHB3tH1iALEWcZKAAoEBLJlaiBZI3QgFnJMhzlIDTHAko
+iWcFQPICxREkGg0l0DgPWB6neCPHYFpTHzicyBsAFJSzIlO3bHVwqkeB2MHurn1B
+ugC9LiR4mbZdOn3Y8n92biIuejE8KiQvYvDxF80tj1uzs8Hb/QOPAqfvbG5vSzSQ
+g5mvm+v0t7CsnvLegmClMtJxMkW40P30TO2uZ7+V8FUrH7RsGc8dW12f0LSYMnFh
+o27c/8o2+Z3Gs980HOo9vfuuoamrvHyx40tl9sapb3U152Njnk81bhxui4qVNuwM
+rQ++4rqdb51hgvb1/TGy8sO0vkM79Bln29l++/H3f6SuVz+PeLm3omyFLy9repA/
+3J5SxXmHo+JPZH8U2ZHTTX0fXCu3Tn4iGv1P2mKXlW/NfBitvhuUHjbf/509dHX7
+8M25/FdPpI3O+LdPNUolxfHpl2LVvWNji56vEhL1q9xHjlVvkMc62VOdM+QmttAW
+3156r3LN3Jz3Ts8TW1jt/cWe5vU2Mse4d8Uv8mR87tCOieQzhVNlF+Py3rC8JP1u
+yMldWz8yFj4CJ/sfmHblc9HZIdOTn31tj/l499XZhNDLfZ8vJA14weWM5OI1DUUZ
+ftn2U+F03qqhOuLTPTHzC4GDJ13vMY+WhEtH2ZbDsdl1lZk3r2/yXbwbbm9Nz0q6
+ts1XsT0qKvPNehiW9rCrzaz2nFvgj7kzq5/OL83dU8e9ZcnDztHO+K1JzOa48zXr
+hszmIz94XRSseS34qJLe0yn7fqVH11cMHI/wrDNLeZ6gLf0759Zebbjd0fxs6YZf
+uNXa1HclseT+n0JEwZg=
+=F02G
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/reviwm
+
+==================================================================
+
